@@ -6,3 +6,6 @@ This repository contains my Python practice exercises, combining lessons and cha
 
 Feel free to explore and review the code. Contributions, feedback, and suggestions are always welcome!
 
+![8118skNqi1L _UF1000,1000_QL80_](https://github.com/user-attachments/assets/f184745c-df3d-413d-bfdd-c3e3c0179f0a)  ![fasdfasd](https://github.com/user-attachments/assets/2c9d64d2-62f3-498d-bbd9-45ee8400e0e3)
+
+
