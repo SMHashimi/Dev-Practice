@@ -11,7 +11,6 @@ my_app["text"] = "Hey, I am Mubaris"
 my_app.config(text = "Hey, I am Mubaris.")
 
 
-
 def button_clicked():
     print("I got clicked!")
     new_text = user_input.get()
