@@ -1,5 +1,4 @@
 #Raising your own error - Calculating your BMI
-
 height = float(input("Height: "))
 weight = int(input("Weight: "))
 if height > 3:
