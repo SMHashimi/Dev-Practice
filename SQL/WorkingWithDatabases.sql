@@ -348,7 +348,4 @@ SELECT
     RANK() OVER(ORDER BY salary DESC) AS overall_rank,
     DENSE_RANK() OVER(ORDER BY salary DESC) AS overall_dense_rank
     FROM employees ORDER BY department;
--- CLONING INSTAGRAM DATABASE
-
-
 
